@@ -1,0 +1,20 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Text editor & IDE configs
+.vscode/
+.idea/
+*.swp
+
+# Temporary or backup files
+*.bak
+*.tmp
+*.log
+
+# Resources folder
+/Resources
+
+# VS code Workspace
+SQL_Project.code-workspace
