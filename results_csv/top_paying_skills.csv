@@ -1,501 +1,170 @@
-"job_title","job_title_short","company_name","job_location","job_country","average_salary"
-"Data Analyst","Data Analyst","Mantys","Anywhere","India",650000.00
-"Staff Data Scientist/Quant Researcher","Data Scientist","Selby Jennings","Anywhere","United States",550000.00
-"Staff Data Scientist - Business Analytics","Data Scientist","Selby Jennings","Anywhere","United States",525000.00
-"Data Scientist","Data Scientist","Algo Capital Group","Anywhere","United States",375000.00
-"Head of Data Science","Data Scientist","Demandbase","Anywhere","United States",351500.00
-"Director of Analytics","Data Analyst","Meta","Anywhere","United States",336500.00
-"Head of Data Science","Data Scientist","Demandbase","Anywhere","United States",324000.00
-"Director Level - Product Management - Data Science","Data Scientist","Teramind","Anywhere","Sudan",320000.00
-"Director of Data Science & Analytics","Data Scientist","Reddit","Anywhere","United States",313000.00
-"Distinguished Data Scientist","Data Scientist","Walmart","Anywhere","United States",300000.00
-"Head of Battery Data Science","Data Scientist","Lawrence Harvey","Anywhere","Sudan",300000.00
-"Principal Data Scientist","Data Scientist","Storm5","Anywhere","United States",300000.00
-"Director of Data Science","Data Scientist","Storm4","Anywhere","United States",300000.00
-"Pre-Sales Data Scientist, Financial Services","Data Scientist","Teradata","Anywhere","Sudan",288000.00
-"Data Science Manager, Online Customer Experience Intelligence (Remote)","Data Scientist","Home Depot / THD","Anywhere","United States",280000.00
-"Distinguished Data Scientist","Data Scientist","Torc Robotics","Anywhere","Sudan",275000.00
-"Data Scientist","Data Scientist","Algo Capital Group","Anywhere","Sudan",275000.00
-"Data Science Vice President","Data Scientist","Storm6","Anywhere","Sudan",265000.00
-"Chief Data Officer","Data Scientist","ZealoTech People","Anywhere","United States",265000.00
-"Director, Data Science","Data Scientist","Cnam - Auditeurs - Accueil","Anywhere","United States",265000.00
-"Director of Data Science & AI Research","Data Scientist","Cnam - Auditeurs - Accueil","Anywhere","United States",265000.00
-"Principal Data Scientist, Applied AI","Data Scientist","Movable Ink","Anywhere","United States",262500.00
-"Data Science Manager","Data Scientist","Stealth","Anywhere","United States",262500.00
-"Associate Director- Data Insights","Data Analyst","AT&T","Anywhere","United States",255829.50
-"Staff Data Scientist (Remote)","Data Scientist","Stitch Fix","Anywhere","United States",253500.00
-"Head of AI, ML & Data Science - Fintech","Data Scientist","Strativ Group","Anywhere","United States",252500.00
-"Data Scientist","Data Scientist","Smith Hanley Associates","Anywhere","United States",250000.00
-"Head of Battery Data Science","Data Scientist","Lawrence Harvey","Anywhere","Sudan",250000.00
-"Director of Data Science, Biostatistics ($260k)","Data Scientist","Averity","Anywhere","United States",250000.00
-"Principal Data Scientist (Remote)","Data Scientist","Block","Anywhere","United States",247500.00
-"Staff Data Scientist, Ads Measurement ML (Remote)","Data Scientist","Reddit","Anywhere","United States",247500.00
-"Staff Data Scientist, Advertiser Platform Analytics","Data Scientist","Reddit","Anywhere","United States",247500.00
-"Pre-Sales Data Scientist, Multi Industry","Data Scientist","Teradata","Anywhere","United States",243500.00
-"Director of Data Science, Remote (Medical Staffing)","Data Scientist","Averity","Anywhere","Sudan",242500.00
-"Lead Data Scientist, Marketing & Online (Remote)","Data Scientist","Home Depot / THD","Anywhere","United States",240000.00
-"Principal Data Scientist","Data Scientist","OpenX","Anywhere","United States",240000.00
-"Lead Data Scientist - Online Platforms Reinforcement Learning (Remote)","Data Scientist","Home Depot / THD","Anywhere","United States",240000.00
-"Principal Data Scientist","Data Scientist","Glocomms","Anywhere","United States",237500.00
-"Director of Data Science (Fintech Startup)","Data Scientist","Averity","Anywhere","United States",237500.00
-"Head of Data Science","Data Scientist","Lawrence Harvey","Anywhere","United States",237500.00
-"Staff Data Scientist, Safety Insights (San Francisco, CA or Remote)","Data Scientist","Reddit","Anywhere","United States",235375.00
-"Head of Data Science (Remote)","Data Scientist","Fairmarkit","Anywhere","Sudan",235000.00
-"Vice President of Data Science","Data Scientist","Amadeus Search","Anywhere","United States",232500.00
-"Data Analyst, Marketing","Data Analyst","Pinterest Job Advertisements","Anywhere","United States",232423.00
-"Director of Data Science (El Segundo, California)","Data Scientist","Infineon Technologies","Anywhere","United States",231657.30
-"Director of Data Science","Data Scientist","Harnham","Anywhere","United States",230000.00
-"Staff Data Scientist, Ad Formats & Optimization Analytics (Remote)","Data Scientist","Reddit","Anywhere","Sudan",229500.00
-"Director Data Science and AI","Data Scientist","Cnam - Auditeurs - Accueil","Anywhere","United States",229000.00
-"Staff Data Scientist","Data Scientist","Crunchbase","Anywhere","United States",225000.03
-"Dovenmuehle Mortgage | Chief Data Scientist","Data Scientist","Braintrust","Anywhere","United States",225000.00
-"Chief Data Scientist (Remote)","Data Scientist","FOURKITES","Anywhere","United States",225000.00
-"Vice President of Design and Data Science","Data Scientist","ACT","Anywhere","Sudan",225000.00
-"Director, Data Science","Data Scientist","New Relic","Anywhere","United States",225000.00
-"Dovenmuehle Mortgage | Chief Data Scientist","Data Scientist","Braintrust","Anywhere","United States",225000.00
-"Principal Data Scientist","Data Scientist","Zaddy Solutions","Anywhere","United States",225000.00
-"Director Data Science","Data Scientist","Averity","Anywhere","United States",225000.00
-"Sr. Director of Data Science","Data Scientist","Forsyth Barnes","Anywhere","United States",225000.00
-"Data Science Vice President","Data Scientist","Primis","Anywhere","United States",225000.00
-"Dovenmuehle Mortgage | Chief Data Scientist (Remote)","Data Scientist","Braintrust","Anywhere","United States",225000.00
-"Data Scientist Lead-Enterprise Market Risk (Remote)","Data Scientist","USAA","Anywhere","United States",221665.00
-"Data Scientist Lead-Enterprise Market Risk (Remote)","Data Scientist","United Services Automobile Association","Anywhere","United States",221665.00
-"Lead People Data Scientist (Remote)","Data Scientist","Atlassian","Anywhere","Sudan",220500.00
-"Lead Business Intelligence Engineer","Business Analyst","Noom","Anywhere","United States",220000.00
-"Principal Technical Data Scientist (Remote)","Data Scientist","Atlassian","Anywhere","United States",219500.00
-"Principal Technical Data Scientist (Peninsula, CA or Remote)","Data Scientist","Atlassian","Anywhere","United States",219500.00
-"Staff Data Scientist (Remote)","Data Scientist","Coinbase","Anywhere","Sudan",219225.00
-"Staff Data Scientist - Pricing Experimentation","Data Scientist","Coinbase","Anywhere","United States",219225.00
-"Principal Data Scientist, Supply Chain (Greater NYC Area, NY or...","Data Scientist","Gopuff","Anywhere","United States",219000.00
-"Staff Data Scientist (Remote)","Data Scientist","Vouch Insurance","Anywhere","United States",217500.00
-"Staff Data Scientist","Data Scientist","Worth Search","Anywhere","United States",217500.00
-"Staff Data Scientist","Data Scientist","Vouch Insurance","Anywhere","United States",217500.00
-"Data Analyst (Hybrid/Remote)","Data Analyst","Uclahealthcareers","Anywhere","United States",217000.00
-"Principal Data Scientist","Data Scientist","Mavent Analytics","Anywhere","Sudan",215000.00
-"Data Scientist, Customer Analytics","Data Scientist","Harnham","Anywhere","Sudan",215000.00
-"Lead NLP Data Scientist","Data Scientist","TIFIN","Anywhere","Sudan",215000.00
-"Director of Data Science","Data Scientist","Forsyth Barnes","Anywhere","United States",215000.00
-"Head of Data Science","Data Scientist","Lawrence Harvey","Anywhere","United States",215000.00
-"Principal Data Scientist","Data Scientist","Jobot","Anywhere","Sudan",215000.00
-"Manager II, Applied Science - Marketplace Dynamics","Business Analyst","Uber","Anywhere","United States",214500.00
-"Associate Director - Advanced Analytics","Data Scientist","AT&T","Anywhere","United States",214379.50
-"Principal Data Scientist","Data Scientist","Electronic Arts","Anywhere","Sudan",212625.00
-"Associate Director, Product Analytics and Data Science","Data Scientist","Spring Health","Anywhere","United States",211000.00
-"Principal Data Scientist","Data Scientist","Harnham","Anywhere","United States",210000.00
-"Principal Data Scientist","Data Scientist","Harnham","Anywhere","Sudan",210000.00
-"Lead Data Scientist","Data Scientist","Harnham","Anywhere","United States",210000.00
-"Business Development Growth Leader- Data Science Solutions (Remote)","Data Scientist","Blend360","Anywhere","United States",210000.00
-"Principal Data Scientist","Data Scientist","CVS Health","Anywhere","United States",210000.00
-"8534 - Head of Data Science","Data Scientist","Interactive Resources - iR","Anywhere","Sudan",210000.00
-"Lead Data Scientist","Data Scientist","Storm3","Anywhere","United States",210000.00
-"Staff Data Scientist","Data Scientist","Harnham","Anywhere","United States",210000.00
-"Data Scientist Leader (Revenue/Marketing)","Data Scientist","Irvine Technology Corporation","Anywhere","United States",210000.00
-"Principal Data Scientist","Data Scientist","IBM","Anywhere","United States",210000.00
-"Principal Data Scientist – Member Engagement","Data Scientist","CVS Health","Anywhere","Sudan",210000.00
-"Associate Director of Data Science","Data Scientist","Stabile Search","Anywhere","United States",210000.00
-"Principal Data Scientist - Fintech Lending/Capital (Remote)","Data Scientist","Toast","Anywhere","United States",208000.00
-"Principal Data Scientist - Fintech Lending/Capital","Data Scientist","Toast","Anywhere","United States",208000.00
-"Staff Data Scientist","Data Scientist","MongoDB","Anywhere","Argentina",207500.00
-"Staff Data Scientist, Post-Market Biostatistics-Remote","Data Scientist","Siemens Healthineers","Anywhere","United States",207451.50
-"Director, Data Science - Operational Research","Data Scientist","Best Buy","Anywhere","United States",206800.00
-"Data Science Manager II - Membership","Data Scientist","Uber","Anywhere","United States",206000.00
-"Staff Data Scientist, Safety","Data Scientist","Uber","Anywhere","United States",206000.00
-"Data Science Manager II - Delivery","Data Scientist","Uber","Anywhere","United States",206000.00
-"Principal Data Analyst (Remote)","Data Analyst","SmartAsset","Anywhere","United States",205000.00
-"Staff Data Scientist","Data Scientist","SoFi","Anywhere","United States",205000.00
-"Data and Analytics Lead","Data Scientist","Secureframe","Anywhere","Canada",205000.00
-"Principal AI/ML Data Scientist","Data Scientist","Pie Insurance","Anywhere","United States",205000.00
-"Lead Data Scientist","Data Scientist","Intelletec","Anywhere","Sudan",205000.00
-"Secret Cleared Data Scientist","Data Scientist","Riverside Staffing, LLC","Anywhere","United States",205000.00
-"Principal AI/ML Data Scientist (Remote)","Data Scientist","Pie Insurance","Anywhere","United States",205000.00
-"Staff Data Scientist, Credit Card","Data Scientist","SoFi","Anywhere","United States",205000.00
-"Head of Data Science","Data Scientist","Harnham","Anywhere","Sudan",205000.00
-"Director of Data Science (Remote)","Data Scientist","Huckleberry Labs","Anywhere","United States",205000.00
-"Data Scientist","Data Scientist","Grammarly","Anywhere","United States",204500.00
-"Principal Data Scientist","Data Scientist","GSK","India","India",204381.00
-"Marketing Data Scientists, Buyers Experience","Data Scientist","Atlassian","Anywhere","United States",204000.00
-"Staff Data Scientist","Data Scientist","Guru","Anywhere","Sudan",202500.00
-"Staff Data Scientist","Data Scientist","CyberCoders","Anywhere","United States",202500.00
-"Director of Data Science","Data Scientist","Storm3","Anywhere","United States",202500.00
-"Lead AI / ML / Data Science Engineer","Data Scientist","Founding Teams","Anywhere","United States",200000.00
-"Director Data Science","Data Scientist","Benjamin Douglas","Anywhere","United States",200000.00
-"Analytics & Data Science Curriculum Manager","Data Scientist","DataCamp","Anywhere","United States",200000.00
-"Analyst","Business Analyst","Multicoin Capital","Anywhere","United States",200000.00
-"Lead Data Scientist","Data Scientist","Storm3","Anywhere","United States",200000.00
-"Principal Data Scientist - Pharma / Biotech or Life Sciences...","Data Scientist","Data Revolution","Anywhere","United States",200000.00
-"Analyst","Business Analyst","Multicoin Capital","Anywhere","United States",200000.00
-"Lead Data Scientist","Data Scientist","Storm3","Anywhere","United States",200000.00
-"Data Scientist, Product","Data Scientist","Figma","Anywhere","Canada",200000.00
-"Principal Data Scientist","Data Scientist","Storm3","Anywhere","United States",200000.00
-"Director of Data Science (Generative AI)","Data Scientist","Codex Recruitment","Anywhere","United States",200000.00
-"Data Scientist, Product Analytics - Monetization","Data Scientist","Meta","Anywhere","United States",198500.00
-"Marketing Data Scientist, Reality Labs","Data Scientist","Meta","Anywhere","United States",198500.00
-"Marketing Data Scientist, Reality Labs","Data Scientist","Facebook App","Anywhere","United States",198500.00
-"Data Scientist, Product Analytics - Monetization","Data Scientist","Meta","Anywhere","United States",198500.00
-"Data Science Manager, Infra Strategy","Data Scientist","Meta","Anywhere","United States",198500.00
-"Data Science Manager, Analytics","Data Scientist","Meta","Anywhere","United States",198500.00
-"Advanced Data Scientist","Data Scientist","Intelletec","Anywhere","United States",197500.00
-"Staff Analytics Engineer","Data Scientist","MongoDB","Anywhere","Brazil",197500.00
-"Staff Analytics Engineer","Data Scientist","MongoDB","Anywhere","Canada",197500.00
-"Data Scientist","Data Scientist","Cisco","Anywhere","United States",197500.00
-"Lead Data Scientist - Care Delivery","Data Scientist","CVS Health","Anywhere","United States",196125.00
-"Lead Data Scientist","Data Scientist","Harnham","Anywhere","United States",195000.00
-"Lead Data Scientist, LLMs","Data Scientist","Harnham","Anywhere","United States",195000.00
-"Data Science Manager","Data Scientist","Harnham","Anywhere","United States",195000.00
-"Lead Data Scientist","Data Scientist","OBMedia","Anywhere","Sudan",195000.00
-"Lead Data Scientist","Data Scientist","Harnham","Anywhere","United States",195000.00
-"Data Scientist","Data Scientist","Storm2","Anywhere","United States",195000.00
-"Lead Data Scientist, LLMs","Data Scientist","Harnham","Anywhere","Sudan",195000.00
-"Lead Data Scientist","Data Scientist","OBMedia","Anywhere","United States",195000.00
-"Adtech Data Scientist - 100% Remote in US","Data Scientist","Motion Recruitment","Anywhere","United States",195000.00
-"Founding Data Scientist","Data Scientist","Storm3","Anywhere","Sudan",195000.00
-"Lead Data Scientist","Data Scientist","OBMedia","Anywhere","United States",195000.00
-"Lead Data Scientist, Analytics","Data Scientist","Vimeo","Anywhere","United States",194000.00
-"Data Scientist V","Data Scientist","Kforce Technology Staffing","Anywhere","United States",193500.00
-"Staff Data Scientist","Data Scientist","Platform Science","Anywhere","Sudan",193000.00
-"Data Scientist","Data Scientist","Tomorrow.io","Anywhere","United States",190600.00
-"Data Scientist Lead, Square F&S (Remote)","Data Scientist","Block","Anywhere","United States",190500.00
-"Staff Data Scientist, CashApp Compliance Engineering & Technology...","Data Scientist","Cash App","Anywhere","United States",190500.00
-"Staff Data Scientist, Model Risk Management (Remote)","Data Scientist","Block","Anywhere","United States",190500.00
-"Staff Data Scientist, CashApp Compliance Engineering & Technology...","Data Scientist","Block","Anywhere","United States",190500.00
-"Staff Data Scientist, Model Risk Management (Remote)","Data Scientist","Block","Anywhere","United States",190500.00
-"Data Scientist Lead, Square F&S (San Francisco, CA or Remote)","Data Scientist","Block","Anywhere","United States",190500.00
-"Staff Data Scientist, Analytics (Remote)","Data Scientist","Grindr","Anywhere","United States",190000.00
-"Principal Data Scientist","Data Scientist","Mavent Analytics","Anywhere","United States",190000.00
-"Principal Data Scientist - Deep Learning and LLMs","Data Scientist","Harnham","Anywhere","United States",190000.00
-"Lead Data Scientist, Growth","Data Scientist","Hinge Health","Anywhere","United States",190000.00
-"Lead Data Scientist","Data Scientist","UpRecruit","Anywhere","Sudan",190000.00
-"Staff Data Scientist","Data Scientist","Arccos Golf","Anywhere","United States",190000.00
-"Principal Data Scientist","Data Scientist","Mavent Analytics","Anywhere","United States",190000.00
-"Lead Data Scientist (Remote)","Data Scientist","Chief","Anywhere","United States",190000.00
-"Senior Economy Designer","Business Analyst","Harnham","Anywhere","Canada",190000.00
-"Staff Data Scientist","Data Scientist","Arccos Golf","Anywhere","Sudan",190000.00
-"Director, Data Analyst - HYBRID","Data Analyst","Inclusively","Anywhere","United States",189309.00
-"Data Science Workflows Architect","Data Scientist","NE-NERSC","Anywhere","United States",189276.00
-"Principal Data Analyst, AV Performance Analysis","Data Analyst","Motional","Anywhere","United States",189000.00
-"Senior Analytics Engineer (Remote)","Data Scientist","Atlassian","Anywhere","United States",189000.00
-"Applied AI & Data Science Lead (Remote)","Data Scientist","Block","Anywhere","United States",189000.00
-"Clinical Data Scientist- Associate Director","Data Scientist","Connexion Systems and Engineering, Inc.","Anywhere","United States",187500.00
-"Lead Data Scientist - Healthcare Management","Data Scientist","CVS Health","Anywhere","United States",187500.00
-"Lead Data Scientist","Data Scientist","Affinaquest Technologies, LLC","Anywhere","United States",187500.00
-"Principal Data Analyst","Data Analyst","SmartAsset","Anywhere","United States",186000.00
-"Data Scientist","Data Scientist","Grammarly","Anywhere","United States",186000.00
-"Senior Analytics Engineer (Remote)","Data Scientist","Upstart","Anywhere","United States",186000.00
-"Associate Director, Data Science (Remote)","Data Scientist","Merck & Co, Inc","Anywhere","United States",185710.00
-"Staff Data Scientist","Data Scientist","Lily AI","Anywhere","United States",185000.00
-"Sr. Product Data Scientist (Remote)","Data Scientist","Philo","Anywhere","United States",185000.00
-"Data Scientist","Data Scientist","Brookwood Search & Selection","Anywhere","United States",185000.00
-"Staff Data Scientist (Remote)","Data Scientist","Achieve","Anywhere","United States",185000.00
-"Principal Data Scientist","Data Scientist","Acceler8 Talent","Anywhere","United States",185000.00
-"Data Scientist NLP","Data Scientist","GR4","Anywhere","Sudan",185000.00
-"Data Scientist","Data Scientist","Mineral.ai","Anywhere","Sudan",185000.00
-"Sr. Data Scientist","Data Scientist","Intelletec","Anywhere","Sudan",185000.00
-"Principal Data Scientist (Pricing / Revenue Optimization)","Data Scientist","Hotel Engine","Anywhere","United States",185000.00
-"Director Growth Data Science & Analytics","Data Scientist","Nav Technologies, Inc.","Anywhere","United States",185000.00
-"Staff Data Scientist (Phoenix, AZ or Remote)","Data Scientist","Achieve","Anywhere","United States",185000.00
-"Sr Data Scientist","Data Scientist","Marriott","Anywhere","United States",184875.00
-"ERM Data Analyst","Data Analyst","Get It Recruit - Information Technology","Anywhere","United States",184000.00
-"Principal Data Strategist","Data Scientist","Get It Recruit - Administrative","Anywhere","United States",184000.00
-"Data Scientist","Data Scientist","SAP SuccessFactors","Anywhere","United States",183310.00
-"Data Scientist","Data Scientist","SAP SuccessFactors","Anywhere","United States",183310.00
-"Lead Data Scientist (Greater NYC Area, NY or Remote)","Data Scientist","Thyme Care","Anywhere","Sudan",182500.00
-"Machine Learning Data Science - Retail Lending","Data Scientist","Selby Jennings","Anywhere","United States",182500.00
-"Director of Data Science & AI","Data Scientist","M Corp","Anywhere","United States",182500.00
-"Arity- Geospatial Data Scientist Expert - Remote","Data Scientist","Arity","Anywhere","United States",182375.00
-"Arity - Data Scientist - Expert ML Researcher","Data Scientist","Allstate","Anywhere","United States",182375.00
-"Director, Data Science - Healthcare Analytics Solutions","Data Scientist","Quest Diagnostics","Anywhere","United States",181640.00
-"Lead Data Scientist (Remote)","Data Scientist","Thrive Market","Anywhere","United States",180000.00
-"Lead Data Scientist","Data Scientist","Storm3","Anywhere","United States",180000.00
-"NLP Data Scientist for Insurance and Mutual Fund Firm","Data Scientist","Motion Recruitment","Anywhere","United States",180000.00
-"Associate Director Data Science and AI","Data Scientist","Cnam - Auditeurs - Accueil","Anywhere","United States",180000.00
-"Head of Data Science","Data Scientist","Harnham","Anywhere","United States",180000.00
-"Lead Data Scientist","Data Scientist","Harnham","Anywhere","United States",180000.00
-"Director, Data Science & AI - Actuary","Data Scientist","Employers","Anywhere","United States",180000.00
-"Data Scientist- Remote","Data Scientist","General Dynamics Information Technology","Anywhere","United States",180000.00
-"Principal Data Scientist","Data Scientist","Opinion Dynamics","Anywhere","United States",180000.00
-"Sr. Business Analytics Developer","Data Scientist","AT&T","Anywhere","United States",180000.00
-"Lead Data Scientist","Data Scientist","High Country Search Group","Anywhere","United States",180000.00
-"Lead Data Scientist, Finance (Remote)","Data Scientist","Figment","Anywhere","Sudan",180000.00
-"Data Science Manager","Data Scientist","Harnham","Anywhere","United States",180000.00
-"Expert Data Scientist","Data Scientist","impact.com","Anywhere","United States",180000.00
-"Data Scientist","Data Scientist","Ascendion","Anywhere","Sudan",180000.00
-"Principal Data Scientist/AI Researcher","Data Scientist","Cnam - Auditeurs - Accueil","Anywhere","United States",180000.00
-"Principal/Associate Director Data Science","Data Scientist","X4 Life Sciences","Anywhere","Sudan",180000.00
-"Professional-Data Scientist","Data Scientist","AT&T","Anywhere","United States",179500.00
-"Actuary, Insurance: Dir II, Data Science Management","Data Scientist","Liberty Mutual Insurance","Anywhere","United States",179500.00
-"Senior Associate, Data Scientist","Data Scientist","Inclusively","Anywhere","United States",178200.09
-"Staff Data Scientist, AI (East Bay, CA or Remote)","Data Scientist","Blackline","Anywhere","United States",178000.00
-"Data Scientist V Data Science (100% remote from CA, GA, HI, CO...","Data Scientist","Kaiser Permanente","Anywhere","United States",177820.00
-"Sr. Data Scientist II (Remote)","Data Scientist","CrowdStrike","Anywhere","Sudan",177500.00
-"Clinical Data Scientist","Data Scientist","Lawrence Harvey","Anywhere","United States",177500.00
-"Sr. Data Scientist II (Remote)","Data Scientist","CrowdStrike","Anywhere","United States",177500.00
-"Data Scientist (Remote)","Data Scientist","Level","Anywhere","United States",177500.00
-"Staff Applied Research Engineer","Data Analyst","ServiceNow","Hyderabad, Telangana, India","India",177283.00
-"Data Scientist","Data Scientist","Candor PS","Anywhere","United States",175000.00
-"Principal Data Scientist","Data Scientist","CyberCoders","Anywhere","United States",175000.00
-"Lead Applied AI Data Scientist","Data Scientist","Alldus","Anywhere","United States",175000.00
-"Data Scientist","Data Scientist","Smith Hanley Associates","Anywhere","United States",175000.00
-"Lead Data Scientist","Data Scientist","Acceler8 Talent","Anywhere","United States",175000.00
-"Data Scientist","Data Scientist","Redvest","Anywhere","United States",175000.00
-"Principal Data Scientist","Data Scientist","Harnham","Anywhere","United States",175000.00
-"Data Scientist (Fraud Detection)","Data Scientist","Averity","Anywhere","United States",175000.00
-"Data Scientist","Data Scientist","Salt","Anywhere","United States",175000.00
-"Staff Data Scientist","Data Scientist","GOBankingRates","Anywhere","United States",175000.00
-"Data Scientist","Data Scientist","Ocean Media","Anywhere","United States",175000.00
-"Practice Manager, Data Science, AI and ML","Data Scientist","Rackspace Technology","Anywhere","United States",175000.00
-"Staff Data Scientist","Data Scientist","Lily AI","Anywhere","United States",175000.00
-"Data Scientist - Retention","Data Scientist","Stealth Startup","Anywhere","United States",175000.00
-"Data Science Manager - Real-time bidding + DS experience needed","Data Scientist","Burtch Works","Anywhere","Sudan",175000.00
-"Lead Data Scientist (Machine Vision)","Data Scientist","Teknoir","Anywhere","United States",175000.00
-"Data Scientist","Data Scientist","Zaddy Solutions","Anywhere","United States",175000.00
-"Data Scientist (Health Care Fraud)","Data Scientist","Averity","Anywhere","United States",175000.00
-"Lead Data Scientist (Remote)","Data Scientist","BARK","Anywhere","United States",175000.00
-"Principal Data Scientist","Data Scientist","Harnham","Anywhere","Sudan",175000.00
-"Director, Data Science","Data Scientist","Advantage Solutions: Sales, Marketing, Technology","Anywhere","United States",175000.00
-"🦸Research Engineer/ Data Scientist","Data Scientist","Intelletec","Anywhere","United States",175000.00
-"Applied AI Data Scientist","Data Scientist","Alldus","Anywhere","United States",175000.00
-"Lead Data Scientist/Privacy Engineer/Software Engineer","Data Scientist","Lumicity","Anywhere","Sudan",175000.00
-"Data Scientist","Data Scientist","Get It Recruit - Information Technology","Anywhere","United States",174000.00
-"Data Scientist - Finance","Data Scientist","Get It Recruit - Finance","Anywhere","United States",173000.00
-"Lead Data Scientist","Data Scientist","CVS Health","Anywhere","United States",172500.00
-"Lead Data Scientist - Site Optimization","Data Scientist","CVS Health","Anywhere","United States",172500.00
-"Lead Data Scientist-Epidemiologist","Data Scientist","CVS Health","Anywhere","United States",172500.00
-"Lead Data Scientist","Data Scientist","CVS Health","Anywhere","United States",172500.00
-"Principal Data Scientist, Compliance & Delegated Ops","Data Scientist","Devoted Health","Anywhere","Sudan",172000.00
-"Staff Data Scientist, Cash App Compliance (Remote)","Data Scientist","Block","Anywhere","United States",171500.00
-"Data Scientist (Remote)","Data Scientist","Cloudflare","Anywhere","United States",171000.00
-"Data Scientist (Remote)","Data Scientist","Cloudflare","Anywhere","Sudan",171000.00
-"Data Scientist - Fraud and Abuse Detection (Remote)","Data Scientist","Cloudflare","Anywhere","Sudan",171000.00
-"Data Scientist","Data Scientist","KONE","India","India",170575.00
-"Staff Engineer - Data Scientist","Data Scientist","Micron Technology","India","India",170575.00
-"Data Scientist - Retail / Mobility","Data Scientist","Shell","India","India",170575.00
-"Data Scientist (all genders)","Data Scientist","HRS","India","India",170500.00
-"AI Data Scientist","Data Scientist","Shell","India","India",170500.00
-"Staff Revenue Operations Analyst","Business Analyst","Gladly","Anywhere","Panama",170500.00
-"Data Scientist","Data Scientist","RAZOR","Anywhere","United States",170000.00
-"Sr Data Scientist","Data Scientist","Target","India","India",170000.00
-"DTCC Data Analyst","Data Analyst","Robert Half","Anywhere","United States",170000.00
-"Data Scientist","Data Scientist","CyberCoders","Anywhere","United States",170000.00
-"Senior Credit Strategy Data Scientist","Data Scientist","SoFi","Anywhere","Sudan",170000.00
-"Azure Data Python Consultant - contract to HIRE - Citizen or Perm...","Data Analyst","Kelly Science, Engineering, Technology & Telecom","Anywhere","Sudan",170000.00
-"Staff Data Scientist","Data Scientist","Motion Recruitment","Anywhere","United States",170000.00
-"Data Scientist","Data Scientist","Henderson Scott","Anywhere","Sudan",170000.00
-"REMOTE Director of Data Analytics","Data Analyst","A-Line Staffing Solutions","Anywhere","United States",170000.00
-"Data Scientist","Data Scientist","Ascendion","Anywhere","Sudan",170000.00
-"Lead Digital Campaign Analyst (Remote)","Data Scientist","United Services Automobile Association","Anywhere","United States",167755.00
-"Lead Data Scientist","Data Scientist","OneSignal","Anywhere","Sudan",167500.00
-"Founding Data Scientist","Data Scientist","Intelletec","Anywhere","Sudan",167500.00
-"Data Scientist, Forecasting, Supply Chain & Labor Planning...","Data Scientist","Gopuff","Anywhere","United States",167237.50
-"Manager, Data Analyst","Data Analyst","Uber","Anywhere","United States",167000.00
-"Head of Data Science, Analytics and BI","Data Scientist","Carousell Group","India","India",166419.50
-"Manager, Risk Data Science - Remote","Data Scientist","PayPal","Anywhere","United States",165450.00
-"Data Scientist","Data Scientist","Cleerly","Anywhere","United States",165000.00
-"Labs Data Scientist (Remote)","Data Scientist","Gauntlet","Anywhere","United States",165000.00
-"Data Scientist, Product","Data Scientist","Underdog Fantasy","Anywhere","Sudan",165000.00
-"DIRECTOR OF DATA SCIENCE 160,000 - 170,000","Data Scientist","Harnham","Anywhere","United States",165000.00
-"Technical Data Architect - Healthcare","Data Analyst","Srijan Technologies","Gurugram, Haryana, India","India",165000.00
-"Data Analyst","Data Analyst","Get It Recruit - Information Technology","Anywhere","United States",165000.00
-"Computer Vision (Clinical) – Data Scientist / Machine Learning...","Data Scientist","Data Revolution","Anywhere","United States",165000.00
-"Data Scientist","Data Scientist","Cleerly","Anywhere","Sudan",165000.00
-"Data Scientist","Data Scientist","Endeavor","Anywhere","United States",165000.00
-"Data Scientist","Data Scientist","Harnham","Anywhere","United States",165000.00
-"Marketing Data Scientist – Remote","Data Scientist","Safeguard Global Recruiting","Anywhere","United States",165000.00
-"Data Architect - Data Migration","Data Analyst","Bosch Group","Bengaluru, Karnataka, India","India",165000.00
-"Data Scientist (Remote)","Data Scientist","Forge","Anywhere","United States",165000.00
-"Data Analyst","Data Analyst","Plexus Resource Solutions","Anywhere","United Kingdom",165000.00
-"Head of Data Science","Data Scientist","Harnham","Anywhere","United States",165000.00
-"Data Scientist","Data Scientist","Ascendion","Anywhere","United States",165000.00
-"Data Architect 2023","Data Analyst","Bosch Group","Bengaluru, Karnataka, India","India",165000.00
-"Data Scientist, Marketing - 100% Remote","Data Scientist","Camden Kelly Corporation","Anywhere","United States",165000.00
-"Principal Data Science Analyst- Remote","Data Analyst","Mayo Clinic","Anywhere","United States",164746.00
-"Principal Data Science Analyst- Remote","Data Analyst","Mayo Clinic","Anywhere","United States",164746.00
-"Staff Data Scientist (Remote)","Data Scientist","Drata","Anywhere","United States",164500.00
-"Sr Data Scientist","Data Scientist","Qventus","Anywhere","United States",164500.00
-"Data Scientist, Product - Generative AI","Data Scientist","Facebook App","Anywhere","United States",164000.00
-"Data Scientist, GBG","Data Scientist","Meta","Anywhere","United States",164000.00
-"Data Architect","Data Analyst","Eagle Genomics Ltd","Hyderabad, Telangana, India","India",163782.00
-"Data Architect","Data Analyst","Eagle Genomics Ltd","Hyderabad, Telangana, India","India",163782.00
-"Principal Data Intelligence Analyst - Cardiac - Remote","Data Analyst","CEDARS-SINAI","Anywhere","United States",163500.00
-"Lead Data Scientist","Data Scientist","ezCater","Anywhere","United States",163500.00
-"Principal Data Scientist , Search and Personalization (15258) ...","Data Scientist","Getty Images","Anywhere","United States",163000.00
-"Senior Python Developer/Data Scientist Background or Experience ...","Data Scientist","Austin Fraser","Anywhere","United States",162500.00
-"Data Scientist - Machine Learning","Data Scientist","Underdog Fantasy","Anywhere","United States",162500.00
-"Founding Senior Data Scientist","Data Scientist","Intelletec","Anywhere","United States",162500.00
-"Data Scientist","Data Scientist","Synaptec Health","Anywhere","United States",162500.00
-"REMOTE - Business Intelligence Analyst (Leadership Role) - GCP","Business Analyst","CyberCoders","Anywhere","United States",162500.00
-"Data Scientist, Underwriting","Data Scientist","FloatMe Corp.","Anywhere","Sudan",162500.00
-"Data Scientist (all genders)","Data Scientist","HRS","India","India",162500.00
-"Data Scientist","Data Scientist","Gartner","India","India",162500.00
-"Data Scientist","Data Scientist","The Travelers Companies, Inc.","Anywhere","United States",161500.00
-"Principal Data Scientist - Canada (Remote)","Data Scientist","Very","Anywhere","United States",161250.00
-"Principal Data Scientist - Canada - Remote","Data Scientist","Very","Anywhere","Canada",161250.00
-"Marketing Data Scientist","Data Scientist","Sephora","Anywhere","United States",161044.00
-"Marketing Data Scientist","Data Scientist","Sephora","Anywhere","United States",161044.00
-"Senior - Data Analyst","Data Analyst","DIRECTV","Anywhere","United States",160515.00
-"Principal Data Scientist","Data Scientist","Get It Recruit - Information Technology","Anywhere","United States",160500.00
-"Data Scientist","Data Scientist","Intelletec","Anywhere","United States",160000.00
-"Remote Senior Data Scientist","Data Scientist","Kforce","Anywhere","United States",160000.00
-"Data Scientist","Data Scientist","Lawrence Harvey","Anywhere","United States",160000.00
-"Remote Senior Data Scientist","Data Scientist","Kforce Technology Staffing","Anywhere","United States",160000.00
-"Healthcare Data Scientist","Data Scientist","X4 Technology","Anywhere","United States",160000.00
-"Principal Data Scientist","Data Scientist","Health Advocate","Anywhere","Sudan",160000.00
-"Principal Data Scientist","Data Scientist","Get It Recruit - Information Technology","Anywhere","United States",160000.00
-"Remote Bioinformatics Data Scientist- Python/R/Machine Learning!","Data Scientist","CyberCoders","Anywhere","United States",160000.00
-"Lead Data Scientist","Data Scientist","Harnham","Anywhere","United States",160000.00
-"Data Scientist","Data Scientist","Hott Source","Anywhere","United States",160000.00
-"Data Scientist (Brain-Computer Interface Team)","Data Scientist","AE Studio","Anywhere","Australia",160000.00
-"Data Science Manager (Remote)","Data Scientist","Signifyd","Anywhere","Sudan",160000.00
-"Data Scientist, Machine Learning and RWD","Data Scientist","Citeline","Anywhere","United Kingdom",160000.00
-"Data Scientist (Machine Learning)","Data Scientist","Qualitest","Anywhere","United States",160000.00
-"Data Scientist","Data Scientist","CyberCoders","Anywhere","United States",160000.00
-"Principal Data Scientist","Data Scientist","Health Advocate","Anywhere","United States",160000.00
-"Data Scientist (Greater NYC Area, NY or Remote)","Data Scientist","January","Anywhere","United States",160000.00
-"Data Scientist (100% Remote)","Data Scientist","Motion Recruitment","Anywhere","United States",160000.00
-"Data Scientist (Remote)","Data Scientist","January","Anywhere","United States",160000.00
-"Principal Data Analyst","Data Analyst","Realtime Recruitment","Anywhere","Canada",160000.00
-"Principal Data Analyst","Data Analyst","Get It Recruit - Information Technology","Anywhere","United States",160000.00
-"SQL DEVELOPER / DATA ANALYST (Insurance industry Experience) ...","Data Analyst","Robert Half","Anywhere","United States",160000.00
-"Analytics Engineer","Data Scientist","Salt","Anywhere","Sudan",160000.00
-"Data Analyst / Data Scientist","Data Scientist","Y Combinator","Anywhere","United States",160000.00
-"Data Scientist","Data Scientist","SearchTribes","Anywhere","Sudan",160000.00
-"Applied AI & Data Science Lead (Remote)","Data Scientist","Block","Anywhere","United States",157500.00
-"Data Scientist","Data Scientist","Sutherland","Chennai, Tamil Nadu, India","India",157500.00
-"Data Scientist","Data Scientist","Syngenta Group","Hyderabad, Telangana, India","India",157500.00
-"Sr. Data Scientist","Data Scientist","Humans Doing","Anywhere","United States",157500.00
-"Data Scientist III","Data Scientist","InMobi","Bengaluru, Karnataka, India","India",157500.00
-"Director, Data Science & Engineering","Data Scientist","CyberCoders","Anywhere","United States",157500.00
-"Data Scientist, Senior (Customer/Client)","Data Scientist","Veho","Anywhere","United States",157500.00
-"Staff Data Scientist - NLP","Data Scientist","Visa","Bengaluru, Karnataka, India","India",157500.00
-"Senior Statistical Modeler (Data Scientist)","Data Scientist","Averity","Anywhere","United States",157500.00
-"Sr. Data Scientist","Data Scientist","Visa","Bengaluru, Karnataka, India","India",157500.00
-"Data Scientist, Credit Risk (Remote)","Data Scientist","Block","Anywhere","United States",157500.00
-"Data Scientist/Specialist, Data Science - (R-13694)","Data Scientist","Dun & Bradstreet","Hyderabad, Telangana, India","India",157500.00
-"Data Scientist","Data Scientist","Silent Eight","India","India",157500.00
-"Data Scientist","Data Scientist","NielsenIQ","Pune, Maharashtra, India","India",157500.00
-"SR. DATA SCIENTIST","Data Scientist","Optiv","Bengaluru, Karnataka, India","India",157500.00
-"IND (New) Data Scientist, Data Management","Data Scientist","Quantium","Hyderabad, Telangana, India","India",157500.00
-"Data Scientist BLR","Data Scientist","Visa","Bengaluru, Karnataka, India","India",157500.00
-"Data Scientist","Data Scientist","Ethos","Bengaluru, Karnataka, India","India",157500.00
-"Data Scientist (Analyst)","Data Scientist","Visa","Bengaluru, Karnataka, India","India",157500.00
-"Sr Data Scientist","Data Scientist","Zscaler","Bengaluru, Karnataka, India","India",157500.00
-"System Data Analyst","Data Analyst","Edgewater Federal Solutions, Inc.","Anywhere","United States",157500.00
-"Data Scientist –ML, DL, Python","Data Scientist","Capco","Bengaluru, Karnataka, India","India",157500.00
-"Data Science Manager, Advanced Analytics","Data Scientist","Get It Recruit - Hospitality","Anywhere","United States",157500.00
-"Data Scientist","Data Scientist","AppZen, Inc.","Pune, Maharashtra, India","India",157500.00
-"Data Scientist - Communcation Platform","Data Scientist","GoTo Group","Bengaluru, Karnataka, India","India",157500.00
-"Data Scientist","Data Scientist","Nielsen","Bengaluru, Karnataka, India","India",157500.00
-"Data Scientist, Invoices (Remote)","Data Scientist","Square","Anywhere","United States",157500.00
-"Data Scientist","Data Scientist","HashiCorp","Noida, Uttar Pradesh, India","India",157500.00
-"Sr. Data Scientist","Data Scientist","Visa","Bengaluru, Karnataka, India","India",157500.00
-"Data Scientist","Data Scientist","Mackin Talent","Anywhere","Sudan",157500.00
-"Data Scientist","Data Scientist","DAZN","Hyderabad, Telangana, India","India",157500.00
-"Senior Staff Data Scientist","Data Scientist","Freshworks","Bengaluru, Karnataka, India","India",157500.00
-"Data Scientist","Data Scientist","Jumio","Jaipur, Rajasthan, India","India",157500.00
-"Data Scientist","Data Scientist","Bosch Group","Bengaluru, Karnataka, India","India",157500.00
-"Sr. Data Scientist","Data Scientist","Capco","Bengaluru, Karnataka, India","India",157500.00
-"Sr. Data Scientist","Data Scientist","Zeta","Bengaluru, Karnataka, India","India",157500.00
-"Data Scientist - GoTo Logistic","Data Scientist","GoTo Group","Bengaluru, Karnataka, India","India",157500.00
-"Applied Scientist - Maps","Data Analyst","Uber","Anywhere","United States",157500.00
-"Data Scientist- EVG","Data Scientist","Visa","Bengaluru, Karnataka, India","India",157500.00
-"Lead Data Scientist","Data Scientist","Get It Recruit - Information Technology","Anywhere","United States",157500.00
-"Applied AI & Data Science Lead (San Francisco, CA or Remote)","Data Scientist","Cash App","Anywhere","United States",157500.00
-"Data Scientist, Growth","Data Scientist","Near","Anywhere","Argentina",157000.00
-"Data Scientist","Data Scientist","Descartes Labs","Anywhere","United States",157000.00
-"Assoc Dir, Data Science","Data Scientist","Syneos Health Clinical","Anywhere","United States",157000.00
-"Lead Data Scientist","Data Scientist","Get It Recruit - Information Technology","Anywhere","United States",156500.00
-"Data Scientist","Data Scientist","TELUS","Anywhere","Canada",156107.00
-"Data Scientist, Forecasting & Estimation of Demand","Data Scientist","Stitch Fix","Anywhere","United States",156000.00
-"Data Analyst - Remote","Data Analyst","CaptivateIQ","Anywhere",NULL,155485.50
-"Data Scientist - Cloud Specialty","Data Scientist","Swoon","Anywhere","United States",155000.00
-"Lead Data Analyst","Data Analyst","Motion Recruitment","Anywhere","United States",155000.00
-"Manager, Analytics and Data Science - Consumer Lending","Data Scientist","Analytic Recruiting Inc.","Anywhere","Sudan",155000.00
-"Data Scientist (Remote)","Data Scientist","Cognizant Technology Solutions","Anywhere","United States",155000.00
-"Associate Director, Data Science","Data Scientist","Harnham","Anywhere","United States",155000.00
-"MACA Data Scientist","Data Scientist","Intuitive","Anywhere","United States",155000.00
-"Lead Data Scientist","Data Scientist","Phreesia Inc.","Anywhere","United States",155000.00
-"Data Scientist","Data Scientist","SearchTribes","Anywhere","United States",155000.00
-"Supply Chain Data Scientist","Data Scientist","Insight Global","Anywhere","United States",155000.00
-"Data Scientist","Data Scientist","AML JV LLC","Anywhere","Sudan",155000.00
-"72359 - Data Scientist, Cloud Specialty","Data Scientist","Swoon","Anywhere","United States",155000.00
-"Marketing Data Scientist","Data Scientist","Harnham","Anywhere","United States",155000.00
-"Data Scientist Generative AI","Data Scientist","Bayer","Anywhere","United States",155000.00
-"Soil Data Scientist","Data Scientist","SR2 | Socially Responsible Recruitment | Certified B Corporation™","Anywhere","Sudan",155000.00
-"Data Scientist","Data Scientist","Wellth","Anywhere","United States",155000.00
-"Data Scientist","Data Scientist","Ascendion","Anywhere","Sudan",155000.00
-"Data scientist","Data Scientist","IT Pros","Anywhere","Sudan",155000.00
-"Founding Chief Data Scientist - Seed Start-Up","Data Scientist","Intelletec","Anywhere","United States",155000.00
-"Data Scientist","Data Scientist","Get It Recruit - Hospitality","Anywhere","United States",154500.00
-"Senior Analytics Engineer (Remote)","Data Scientist","Loop","Anywhere","United States",154000.00
-"Supply Chain Data Science Subject Matter Expert","Data Scientist","Booz Allen Hamilton","Anywhere","United States",152650.00
-"Staff Business Data Analyst (Remote U.S. OK)","Data Analyst","Zscaler","Anywhere","United States",152625.00
-"Staff Business Data Analyst (Remote U.S. OK)","Data Analyst","Zscaler","Anywhere","United States",152625.00
-"Marketing Data Scientist","Data Scientist","Harnham","Anywhere","Sudan",152500.00
-"Lead Data Analyst, Growth (Remote)","Data Analyst","Rocket Money","Anywhere","United States",152500.00
-"Product Data Scientist","Data Scientist","Black Crow AI","Anywhere","Sudan",152500.00
-"Data Scientist : Advisor","Data Scientist","Jack Henry","Anywhere","United States",152500.00
-"Sr. Data Scientist","Data Scientist","We Did It Consulting LLC","Anywhere","United States",152500.00
-"Data Scientist","Data Scientist","Storm2","Anywhere","United States",152500.00
-"Management & Program Analyst (Data Analytics)","Data Analyst","US Patent and Trademark Office","Anywhere","United States",152221.50
-"Sr. Data Scientist","Data Scientist","IBM","Anywhere","United States",152000.00
-"Data Scientist II, Fraud, Waste & Abuse (Remote)","Data Scientist","Oscar","Anywhere","United States",151500.00
-"Data Analyst","Data Analyst","Get It Recruit - Healthcare","Anywhere","United States",151500.00
-"Data Scientist","Data Scientist","Harnham","Anywhere","United States",150000.00
-"Data Scientist","Data Scientist","Triunity Software","Anywhere","United States",150000.00
-"Founding Data Scientist","Data Scientist","Koya AI","Anywhere","United States",150000.00
-"Mid-Level Data Analyst","Data Analyst","Patterned Learning AI","Anywhere","United States",150000.00
-"Data Scientist","Data Scientist","Ascendion","Anywhere","Sudan",150000.00
-"AI / ML Data Science Delivery & Solutions Lead","Data Scientist","Accolite Digital","Anywhere","Canada",150000.00
-"Healthcare Data Scientist","Data Scientist","X4 Technology","Anywhere","United States",150000.00
-"Associate Data Scientist, Marketing & Online - Remote | WFH","Data Scientist","Get It Recruit - Marketing","Anywhere","United States",150000.00
-"Director, Data Science & AI","Data Scientist","Employers","Anywhere","United States",150000.00
-"Staff Data Scientist, Devoted Medical","Data Scientist","Devoted Health","Anywhere","Sudan",150000.00
-"Data Scientist","Data Scientist","Apex Systems","Anywhere","United States",150000.00
-"Data Science Manager","Data Scientist","Intelletec","Anywhere","Sudan",150000.00
-"Data Scientist on Next Best Action Team for Pharma Company","Data Scientist","Motion Recruitment","Anywhere","United States",150000.00
-"Cybersecurity Senior Analyst - Data Scientist / Machine Learning...","Data Scientist","Home Depot / THD","Anywhere","United States",150000.00
-"Data Science Trainer","Data Scientist","Enhance IT","Anywhere","United States",150000.00
-"Data Scientist","Data Scientist","Harnham","Anywhere","Sudan",150000.00
-"Data Scientist (Generative AI) - Remote","Data Scientist","Citeline","Anywhere","United States",150000.00
-"Associate Data Scientist, Marketing & Online (Remote)","Data Scientist","Home Depot / THD","Anywhere","United States",150000.00
-"Data Scientist","Data Scientist","ECS Federal","Anywhere","United States",150000.00
-"Data Scientist - Model Validation","Data Scientist","Parallel Consulting","Anywhere","Sudan",150000.00
-"Manager, Data Science (Remote)","Data Scientist","Inc.","Anywhere","United States",150000.00
-"Data Scientist","Data Scientist","Arine","Anywhere","United States",150000.00
-"Data Scientist","Data Scientist","BOSS AI","Anywhere","United States",150000.00
-"Mid-Level Data BI Analyst","Data Analyst","Patterned Learning AI","Anywhere","United States",150000.00
-"Data Scientist","Data Scientist","Premier Group Recruitment","Anywhere","Sudan",150000.00
-"Staff Data Scientist, Player Experience, Core Games","Data Scientist","2K","Anywhere","United States",150000.00
-"Lead Data Scientist","Data Scientist","Intelletec Energy","Anywhere","United States",150000.00
-"Data Scientist - Innovation","Data Scientist","KTeam","Anywhere","United States",150000.00
-"Sr Data Scientist, West","Data Scientist","Dataiku","Anywhere","Sudan",150000.00
-"Data Scientist (Model Engineering & Deep Learning Expertise)","Data Scientist","PeopleCaddie","Anywhere","Sudan",150000.00
-"Founding Data Scientist","Data Scientist","Intelletec","Anywhere","United States",150000.00
-"Data Scientist","Data Scientist","Hanker Systems Inc","Anywhere","Sudan",150000.00
-"Data Scientist","Data Scientist","US Office of Workers' Compensation Programs","Anywhere","United States",149946.50
-"Data Scientist","Data Scientist","Ascendion","Anywhere","United States",149500.00
-"Clinical Trials Data Scientist","Data Scientist","Get It Recruit - Healthcare","Anywhere","United States",149292.00
-"Principal Data Scientist","Data Scientist","OneTrust","Anywhere","United States",149287.50
-"Data Scientist","Data Scientist","Data2Logistics","Anywhere","United States",149071.00
-"Data Scientist","Data Scientist","Get It Recruit - Transportation","Anywhere","United States",149000.00
-"Data Scientist","Data Scientist","Marathon TS","Anywhere","United States",149000.00
-"Lead Data Analyst - Retirement Product Management","Data Analyst","Edward Jones","Anywhere","United States",148238.50
-"Data Scientist","Data Scientist","C.H. Robinson","Anywhere","United States",148000.00
-"Lead Data Scientist, Underwriting","Data Scientist","New York Life Insurance Co","Anywhere","Sudan",148000.00
-"Marketing Data Scientist II, Tech - Brand Platform","Data Scientist","Uber","Anywhere","United States",148000.00
-"Data Scientist - Survey Science","Data Scientist","Uber","Anywhere","United States",148000.00
-"Analytics Engineer","Data Scientist","DAZN","Hyderabad, Telangana, India","India",147500.00
-"Assistant Director, Data Science","Data Scientist","Liberty Mutual","Anywhere","United States",147500.00
-"Data Scientist (Marketing Mix Modeling)","Data Scientist","New American Funding","Anywhere","Sudan",147500.00
-"Analytics Engineer","Data Scientist","Arcadia","Chennai, Tamil Nadu, India","India",147500.00
-"Clinical Data Scientist","Data Scientist","Fractal","Anywhere","Sudan",147500.00
-"Data Scientist (HDIP) - Remote","Data Scientist","Kforce Technology Staffing","Anywhere","United States",147500.00
-"Data Scientist, Manager (Remote)","Data Scientist","Blend360","Anywhere","United States",147500.00
-"Data Scientist","Data Scientist","Evoke Consulting, LLC","Anywhere","United States",147500.00
-"NLP Data Scientist","Data Scientist","Fractal","Anywhere","United States",147500.00
-"Manager - Data Analyst","Data Analyst","EXL Service","Anywhere","United States",147285.00
-"Data Scientist","Data Scientist","NCUA","Anywhere","United States",146383.00
-"Data Scientist (Remote)","Data Scientist","Mynd","Anywhere","United States",146000.00
-"Data Scientist","Data Scientist","PSCU","Anywhere","United States",146000.00
-"Data Scientist Senior Technical Specialist","Data Scientist","Peraton","Anywhere","United States",145500.00
-"Remote Sensing Data Scientist - REMOTE","Data Scientist","Bayer","Anywhere","United States",145500.00
-"Data Scientist Technical Specialist","Data Scientist","Peraton","Anywhere","United States",145500.00
+"job_skill","average_salary"
+"gdpr",199752
+"golang",187500
+"opencv",172500
+"selenium",168750
+"tidyverse",165513
+"solidity",165000
+"datarobot",162998
+"redis",162500
+"elixir",161250
+"neo4j",160612
+"watson",160336
+"atlassian",160164
+"haskell",157500
+"hugging face",156520
+"vue",156107
+"dplyr",155000
+"aurora",155000
+"c",153560
+"chef",152500
+"assembly",151620
+"pytorch",150498
+"microstrategy",150291
+"pyspark",150014
+"scala",149297
+"airflow",148463
+"theano",148250
+"fastapi",148000
+"scikit-learn",147898
+"gcp",147674
+"tensorflow",147372
+"gitlab",147209
+"dynamodb",147053
+"numpy",146226
+"ibm cloud",143835
+"pandas",143655
+"go",141344
+"bigquery",141105
+"rust",140000
+"aws",139683
+"databricks",139650
+"spark",139124
+"cassandra",139113
+"snowflake",137997
+"kubernetes",137737
+"keras",137505
+"rshiny",137500
+"terraform",136551
+"node",136250
+"couchbase",135791
+"swift",134875
+"matplotlib",134815
+"nltk",134697
+"shell",134506
+"linux",133512
+"qlik",132963
+"julia",132645
+"mongodb",131951
+"hadoop",131944
+"python",131279
+"azure",130949
+"looker",130720
+"kafka",130613
+"unity",130510
+"jupyter",130414
+"java",130362
+"redshift",130066
+"docker",129794
+"slack",129368
+"nosql",129139
+"bitbucket",127631
+"flask",127178
+"twilio",127000
+"phoenix",126985
+"jira",126676
+"r",125314
+"trello",125000
+"git",124500
+"firebase",124167
+"elasticsearch",123830
+"spring",123194
+"c++",122555
+"php",122250
+"sql",121265
+"django",120467
+"plotly",120298
+"mxnet",120167
+"flutter",120000
+"seaborn",119894
+"github",119723
+"tableau",119616
+"no-sql",119194
+"confluence",118939
+"electron",118713
+"crystal",118698
+"mongo",118331
+"sas",117650
+"codecommit",117467
+"node.js",116536
+"perl",115938
+"postgresql",115416
+"matlab",115249
+"express",114790
+"zoom",114473
+"jenkins",113590
+"ruby",113341
+"sap",112923
+"notion",111667
+"flow",111255
+"chainer",110000
+"ggplot2",109625
+"unix",109450
+"power bi",109005
+"oracle",108989
+"mariadb",108750
+"db2",108674
+"mysql",108220
+"dax",108168
+"spss",108155
+"t-sql",106087
+"unreal",105650
+"ssis",105574
+"bash",105475
+"sql server",105454
+"powershell",105220
+"c#",105095
+"powerpoint",103750
+"unify",103538
+"ssrs",102773
+"cognos",102714
+"visio",102354
+"microsoft teams",100783
+"clojure",100000
+"lisp",100000
+"alteryx",99185
+"spreadsheet",97807
+"windows",97221
+"vba",96755
+"javascript",96662
+"sheets",95682
+"excel",95610
+"react",95540
+"html",94674
+"outlook",93639
+"word",92346
+"pascal",92000
+"sharepoint",91302
+"visual basic",90000
+"clickup",90000
+"vb.net",90000
+"sqlite",89543
+"css",89343
+"ansible",86154
+"terminal",85400
+"arch",82750
+"jquery",81500
+"planner",81417
+"webex",81250
+"ms access",80356
+"next.js",80000
+"typescript",80000
+"angular",78445
+"digitalocean",75000
+"asana",72500
+"erlang",72500
+"sass",67500
+"colocation",67500
+"smartsheet",62917
+"ruby on rails",58530
+"wire",42500
